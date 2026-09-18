@@ -1,5 +1,5 @@
 #To-Do List
-A simple command-line To-Do list written in python for training OOP and CSV.
+A simple command-line To-Do list written in python for practicing OOP and CSV file handling.
 #Features
 1.Add tasks
 2.Remove tasks
@@ -12,12 +12,13 @@ Python
 Object-Oriented Programming
 CSV
 #Project Structure
-ToDoList/main.py
-ToDoList/README.md
-ToDoList/tasks.csv
+ToDoList
+|___main.py
+|___tasks.csv
+|___README.md
 #How to Run
 Run:
 python main.py
 #How It Works
-Each tasks has: Subject, Priority
+Each task has: Subject, Priority
 A lower priority number means a higher priority.
