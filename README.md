@@ -13,12 +13,12 @@ Object-Oriented Programming
 CSV
 #Project Structure
 ToDoList
-|___main.py
+|___ToDoList.py
 |___tasks.csv
 |___README.md
 #How to Run
 Run:
-python main.py
+python ToDoList.py
 #How It Works
 Each task has: Subject, Priority
 A lower priority number means a higher priority.
